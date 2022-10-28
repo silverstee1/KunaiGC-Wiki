@@ -1,3 +1,4 @@
+
  ## RaspberryPi Setup for programming the CPLD: 
 Install Rasbian OS with the Raspberry Pi Imager, setup SSH, setup WiFi, setup the user einrichten e.g. 
 
@@ -38,7 +39,16 @@ with
     scp ./gc_ipl.jed mancloud@192.168.0.15:xc3sprog/build
     ```
     
-    - now the file is in the same directory as the xc3sprog. The file could be anywhere on the pi's filesystem but it makes it easier and then you have to edit the path for the file in the following command. Now connect the SOIC Bite between the RaspberryPi and the **KunaiGC** and send the following command with the Powershell:
+    - now the file is in the same directory as the xc3sprog. The file could be anywhere on the pi's filesystem but it makes it easier and then you have to edit the path for the file in the following command. 
+
+
+Now connect the SOICbite between the RaspberryPi and the **KunaiGC** 
+
+![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/raspi_wiring.jpg)
+![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/raspi_soicbite.jpg)
+
+
+and send the following command with the Powershell:
     
     ```
     sudo xc3sprog -c sysfsgpio_creator -j
