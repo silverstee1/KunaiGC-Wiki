@@ -1,0 +1,1 @@
+https://de.ifixit.com/Teardown/Nintendo+GameCube+Teardown/1727
