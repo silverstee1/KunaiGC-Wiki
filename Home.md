@@ -9,3 +9,5 @@ It has the following features.
 - Flash storage to store .dol-files
 - Updatable via KunaiUpdater
 - Rich featureset like recoveryloader, Cubeboot-Support etc.
+
+![](https://github.com/KunaiGC/KunaiGC/blob/6f7e6f222d7d4506f1841cb714272bd97228467b/images/kunaigc_soldered_wo_heatsink.jpg)
