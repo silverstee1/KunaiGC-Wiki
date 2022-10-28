@@ -7,4 +7,5 @@ User Manual
   * [Build the KunaiGC](BuildKunaiGC)
   * [Program the CPLD](ProgramCPLD)
   * [Program the Flash](ProgramFlash)
+  * [Solder the KunaiGC](SolderKunaiGC)
 
