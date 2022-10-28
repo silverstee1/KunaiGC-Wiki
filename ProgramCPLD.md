@@ -9,7 +9,7 @@ with
     
     
     ```
-    ssh PiUser@IP-Adresse
+    ssh PiUser@IP-Address
     ```
     
     e.g.:
