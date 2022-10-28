@@ -12,13 +12,7 @@ With an **KunaiGC** installed the Gamecube asks the KunaiGC what to do:
 - If the **KunaiGC** is active the KunaiGC loads it's contents from it's Flash e.g. Swiss directly.
 - If the **KunaiGC** is inactive the KunaiGC is turned of and the stock Gamecube IPL is used.
 
-*More technically?:*
-The Gamecubes CPU sends it's normal IPL boot-commands to the IPL-Chip. 
-Since the KunaiGC is hooked onto it, the KunaiGC grabs this request from the CPU, before the IPL get's it and the CPLD on the KunaiGC decides, which data-path to choose. 
-
-- If the KunaiGC is active the KunaiGC starts it's loading procedure with the KunaiLoader, which is stored on the flash.
-- If the KunaiGC is inactive the CPLD on the KunaiGC sends the CPU requests directly to the stock IPL.
-
+![](https://github.com/KunaiGC/KunaiGC/blob/3a7684826921ec3372d3ddb9dda2f9ff35c36499/images/howitworks.PNG)
 
 
 *******
