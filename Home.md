@@ -1,3 +1,5 @@
+Welcome to the KunaiGC Wiki!
+
 The **KunaiGC** is an all-in-one IPL replacement for the Nintendo Gamecube
 
 It has the following features.
