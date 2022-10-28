@@ -1,9 +1,3 @@
-
-# **How does it work?**
-
-
-***
-
 The **KunaiGC** is as an IPL-Replacement for the Gamecube.
 
 --- *But what is the IPL and why do one want to replace it?*
