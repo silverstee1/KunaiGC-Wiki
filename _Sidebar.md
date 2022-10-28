@@ -6,5 +6,5 @@ User Manual
   * [Where to start?](Where-to-Start)
   * [Build the KunaiGC](BuildKunaiGC)
   * [Program the CPLD](ProgramCPLD)
-  * [Program the Flash(ProgramFlash)
+  * [Program the Flash](ProgramFlash)
 
