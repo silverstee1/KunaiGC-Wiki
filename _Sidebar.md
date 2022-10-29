@@ -8,5 +8,5 @@ User Manual
   * [Program the CPLD](ProgramCPLD)
   * [Program the Flash](ProgramFlash)
   * [Solder the KunaiGC](SolderKunaiGC)
-  * [Testing and Using the KunaiGC](SolderKunaiGC)
+  * [Testing and Using the KunaiGC](TestUseKunaiGC)
 
