@@ -9,6 +9,6 @@ Now you need an **KunaiGC**.
 The **KunaiGC**-Boardfiles are available in this GitHub-Repository so you'll be able to order the PCBs and all needed components by yourself. The soldering is not that hard, if you've done similar things before.
 
 
-### **And a quick note: You do this mod to your Gamecube on your own risk! We are not responsable to any damage, that happens during installation.**
+### **And a quick note: You do this mod to your Gamecube on your own risk! We are not responsable for any damage, that happens during installation.**
 
 
