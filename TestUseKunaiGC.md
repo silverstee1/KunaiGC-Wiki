@@ -13,7 +13,7 @@ Hold the Z-Button on startup boots the KunaiRecovery:
 ![](https://github.com/KunaiGC/KunaiGC/blob/969ebc7c2a9754c8f2a7824be04e4376fd4b95dc/images/zbutton.jpg)
 
 And the main feature:
-Hold the Z-Button on startup and you boot directly into Swiss:
+Hold the Start-Button on startup and you boot directly into Swiss:
 ![](https://github.com/KunaiGC/KunaiGC/blob/969ebc7c2a9754c8f2a7824be04e4376fd4b95dc/images/start_swiss.jpg)
 
 It's currently in the works to get Swiss directly talk to the **KunaiGC** to be able to upload files onto the **KunaiGCs** internal flash.
