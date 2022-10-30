@@ -11,3 +11,4 @@ It has the following features.
 - Rich featureset like recoveryloader, Cubeboot-Support etc.
 
 ![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/kunaigc_soldered_wo_heatsink.jpg)
+![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/Kunai_Controller_Manual.jpg)
