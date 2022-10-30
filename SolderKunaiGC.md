@@ -29,6 +29,9 @@ If you have trouble with the Crystal **"X2"** you can try to manouver it a few m
 
 To check the soldering you can test at this points:
 
+![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_1.jpg)
+![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_2.jpg)
+
 Now put on the heatsink onto the CPU and GPU to check the fitment. Please check the condition of the heatpads beforehand. Is should look like this:
 ![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/qsb_under_heatsink.jpg)
 
