@@ -39,12 +39,15 @@ with
     scp ./gc_ipl.jed mancloud@192.168.0.15:xc3sprog/build
     ```
     
-    - now the file is in the same directory as the xc3sprog. The file could be anywhere on the pi's filesystem but it makes it easier and then you have to edit the path for the file in the following command. 
+    now the file is in the same directory as the xc3sprog. The file could be anywhere on the pi's filesystem but it makes it easier and then you have to edit the path for the file in the following command. 
 
+The **KunaiGC** uses the SOICbite-Interface to program the CPLD and Flash. You need an SOIC-8 Test Clip and modify it a little bit.
+Actually Mi213 has an awesome [tutorial](https://github.com/Micha213/BlueRetro-PS1-2-Receiver/wiki/Flash-PCB#soicbite)  how to prepare the SOIC-8 Test Clip for this usecase. Thanks to Mi213 to let use refer to it :)
 
 Now connect the SOICbite between the RaspberryPi and the **KunaiGC** 
 
 ![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/Diagram_cpld.jpg)
+![](https://github.com/KunaiGC/KunaiGC/blob/80a42bc84a418dbd0005471d2135046b508b41be/images/soicbite-pinout.jpg)
 ![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/raspi_soicbite.jpg)
 
 
