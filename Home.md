@@ -8,6 +8,7 @@ It has the following features.
 - No need to lift Pins on the Gamecubes IPL-Chip
 - Flash storage to store .dol-files
 - Updatable via KunaiUpdater
+- loads custom .dol on boot (see Controller Mapping below)
 - Rich featureset like recoveryloader, Cubeboot-Support etc.
 
 ![](https://github.com/KunaiGC/KunaiGC/blob/a9961fe543320c7af321b0a5d1acf4207d66dec3/images/kunaigc_soldered_wo_heatsink.jpg)
