@@ -4,7 +4,7 @@ To assemble one pcb you need these parts:
 
 part | name/value | qty. | size | Mouser | AliExpress
 --- | --- | --- | --- | --- | --- |
-CPLD | Xilinx XC9536XL | 1 | TQFP44 | - | [AliExpress](https://de.aliexpress.com/item/4001272362962.html?spm=a2g0o.order_list.order_list_main.12.6c3c5c5frJnxlb&gatewayAdapt=glo2deu)
+CPLD | Xilinx XC9536XL | 1 | TQFP44 | [Mouser](https://www.mouser.de/ProductDetail/Xilinx/XC9536XL-10VQ44C?qs=rrS6PyfT74dzgfwydI2z8g%3D%3D) | [AliExpress](https://de.aliexpress.com/item/4001272362962.html?spm=a2g0o.order_list.order_list_main.12.6c3c5c5frJnxlb&gatewayAdapt=glo2deu)
 Flash | Winbound W25Q128 | 1 | FVSSIG | - | [AliExpress](https://de.aliexpress.com/item/1005004975166208.html?spm=a2g0o.order_list.order_list_main.13.6c3c5c5frJnxlb&gatewayAdapt=glo2deu)
 resistor | 10k Ohm | 1 | 0805 | [Mouser](https://www.mouser.de/ProductDetail/Royalohm/0805W8F1002T5E?qs=sGAEpiMZZMtlubZbdhIBIDH%2FP7BvsepRy3ssRLsvhLU%3D) | [AliExpress](https://de.aliexpress.com/item/1005001794062302.html?spm=a2g0o.order_list.order_list_main.4.6c3c5c5frJnxlb&gatewayAdapt=glo2deu)
 resistor | 220 Ohm | 3 | 0805 | [Mouser](https://www.mouser.de/ProductDetail/Royalohm/0805W8J0221T5E?qs=sGAEpiMZZMtlubZbdhIBIDH%2FP7BvsepRFT79UnqNhWk%3D) | [AliExpress](https://de.aliexpress.com/item/1005001794062302.html?spm=a2g0o.order_list.order_list_main.4.6c3c5c5frJnxlb&gatewayAdapt=glo2deu)
