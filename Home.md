@@ -10,6 +10,7 @@ It has the following features.
 * Boot discs from all regions via build-in swiss
 * KunaiRecovery
 * Cubeboot support
+* upcoming: configurable boot-behavior
 
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=65% height=65%>
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/Kunai_Controller_Manual_final.png" width=110% height=110%>
