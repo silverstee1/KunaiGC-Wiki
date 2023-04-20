@@ -2,7 +2,7 @@
 
 User Manual
 ---
-  * [Welcome](https://github.com/KunaiGC/KunaiGC/wiki#welcome-to-the-kunaigc-wiki)
+  * [Home](https://github.com/KunaiGC/KunaiGC/wiki)
   * [How does it work?](How-does-it-work)
   * [Where to start?](Where-to-Start)
   * [Build the KunaiGC](BuildKunaiGC)
