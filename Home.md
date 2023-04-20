@@ -12,4 +12,4 @@ It has the following features.
 * Cubeboot support
 
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=65% height=65%>
-<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/Kunai_Controller_Manual_final.png" width=90% height=90%>
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/Kunai_Controller_Manual_final.png" width=110% height=110%>
