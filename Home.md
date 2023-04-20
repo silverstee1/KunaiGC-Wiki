@@ -1,8 +1,6 @@
 # Welcome to the KunaiGC Wiki!
 
-The **KunaiGC** is an all-in-one IPL replacement for the Nintendo Gamecube
-
-It has the following features.
+The **KunaiGC** is an all-in-one IPL replacement for the Nintendo Gamecube and has the following features:
 
 * QSB - Quick Solder Board for easy installation process
 * Flash storage - boot directly into Swiss
@@ -12,5 +10,5 @@ It has the following features.
 * Cubeboot support
 * upcoming: configurable boot-behavior
 
-<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=65% height=65%>
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/Kunai_Controller_Manual_final.png" width=110% height=110%>
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=65% height=65%>
