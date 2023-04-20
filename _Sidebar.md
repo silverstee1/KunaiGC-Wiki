@@ -8,6 +8,6 @@ User Manual
   * [Build the KunaiGC](Build-the-KunaiGC)
   * [Program the CPLD](Program-the-CPLD)
   * [Program the Flash](Program-the-Flash)
-  * [Solder the KunaiGC](Solder-the-KunaiGC)
+  * [Installation](Installation)
   * [Testing and Using the KunaiGC](Test-and-Use-the-KunaiGC)
 
