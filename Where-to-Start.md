@@ -2,7 +2,9 @@
 First of all you need an Gamecube that is compatible.
 
 At the moment **only** the **DOL-001**-Version (that one with the Digital Out-Port) is compatible with the QSB. The **KunaiGC** will work on both versions.
+
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/where2start/gc_w_component.jpg" width=60% height=60%>
+
 
 The **DOL-101**-revision will be supported later. It's only a matter of the **KunaiGC** placement on the Gamecubes mainboard.
 
