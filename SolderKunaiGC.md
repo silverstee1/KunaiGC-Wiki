@@ -1,6 +1,4 @@
-
-
-First you need to get all the needed parts:
+### First you need to get all the needed parts:
 
 1.  Gamecube DOL-001
 2.  KunaiGC You need to disassemble the Gamecube (easiest way how to do that: Look at  [iFixits-Guide](https://de.ifixit.com/Teardown/Nintendo+GameCube+Teardown/1727), how to do that)
@@ -12,34 +10,34 @@ It's a bit tricky to get the heatsink off, since the thermal pads are most likel
 First take of all the screws from the heatsink. 
 Now turn on the gamecube for a few minutes, sothat the CPU and GPU are getting warm. This softens the thermal pads and you sould be able to get the heatsink of without much force and hopefully without tearing the pads in the process.
 
-Now to the soldering:
+## Now to the soldering:
 
-With **KunaiGC** you **don't** need to life any pins on the IPL. 
+### With **KunaiGC** you **don't** need to life any pins on the IPL.
 So simply lay the QSB-Board over the IPL
 
-![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/qsb.jpg)
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/qsb_allignment.jpg" width=70% height=70%>
 
-and solder every castallation to the IPL Chip.
+### and solder every pin from the QSB to the IPL Chip.
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_qsb.jpg" width=70% height=70%>
 
-![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/qsb_soldered.jpg)
+### before aligning the Kunai Modchip make sure to tape the backsite of the PCB to ensure there are no shorts
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/kunai_back.jpg" width=70% height=70%>
 
-If you have trouble getting the solder stick to the IPL's chipleg and the castallation a good tip is to double up the pin with an componentleg e.g. and as always with soldering: Flux is your friend.
+### align the Kunai and check if it fits in a proper way
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/alligned_kunai.jpg" width=70% height=70%>
 
-If you have trouble with the Crystal **"X2"** you can try to manouver it a few milimeters away from the qsb.
+### Now you can take the assembled and programmed **KunaiGC** and solder it directly to the QSB.
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/solder_kunai.jpg" width=70% height=70%>
 
-Now put on the heatsink onto the CPU and GPU to check the fitment. Please check the condition of the heatpads beforehand. Is should look like this:
-![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/qsb_under_heatsink.jpg)
+### after finishing the solder job it should look like this
+<img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=70% height=70%>
 
-Now you can take the assembled and programmed **KunaiGC** and solder it directly to the QSB.
-![](https://github.com/KunaiGC/KunaiGC/blob/a9961fe543320c7af321b0a5d1acf4207d66dec3/images/kunaigc_soldered_wo_heatsink.jpg)
+### To check the soldering you can test at this points:
+<img src="https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_1.jpg" width=70% height=70%>
+<img src="https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_2.jpg" width=70% height=70%>
 
-To check the soldering you can test at this points:
+## With that finished you can put on the heatsink for good and screw it down.
 
-![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_1.jpg)
-![](https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_2.jpg)
-
-With that finished you can put on the heatsink for good and screw it down.
-![](https://github.com/KunaiGC/KunaiGC/blob/a6744ee455d6b89b1c49a5aaf6fcaeeba9615400/images/kunaigc_soldered_w_heatsink.jpg)
 
 
 
