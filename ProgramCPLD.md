@@ -1,6 +1,6 @@
 
  ## RaspberryPi Setup for programming the CPLD: 
-Install Rasbian OS with the Raspberry Pi Imager, setup SSH, setup WiFi, setup the user einrichten e.g. 
+Install Rasbian OS with the Raspberry Pi Imager, setup SSH, setup WiFi, setup the user e.g. 
 
 - **User: pi**
 
