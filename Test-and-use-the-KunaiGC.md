@@ -10,7 +10,7 @@ By hold the D-Pad down on startup you'll get the debugging information as shown 
 **At this moment you know, that the **KunaiGC** is soldered correctly and works as it should.**
 
 ## Boot directly into Swiss
-Hold the Start-button on startup and you boot directly into Swiss:  
+Hold the Start-button on startup and you boot directly into an onboard Swiss-Version without any SD-Card needed:  
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/start_swiss.jpg" width=60% height=60%>
 
 ## KunaiRecovery
@@ -18,11 +18,11 @@ Hold the Z-button on startup and you boot into the KunaiRecovery. The **KunaiGC*
 <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/testusingkunai/zbutton.jpg" width=60% height=60%>
 
 ## Original and custom IPL
-The **KunaiGC** starts the original IPL by default. If you rename na dol-file you want to _ipl.dol_ and place it in the folder "KUNAIGC" on your SD-Card. The **KunaiGC** will boot automatically this program.
+The **KunaiGC** starts the original IPL by default. But if you rename a dol-file you want to _ipl.dol_ and place it in the folder "KUNAIGC" on your SD-Card, the **KunaiGC** will boot automatically this program.
 If you want to use Cubeboot just rename your _ipl.dol_ into _boot.dol_ and place the customized _cubeboot.dol_ into the KUNAIGC folder and rename it to _ipl.dol_.
 
 ## Remapping the buttons
-Every button can be remapped to boot into an other program. Just rename the designated dol-files into on of the following and press its button on startup. Just place the dol-files into the root of your SD-Card. Even start and z can be remapped, but you cant enter the recovery or debugging mode as long they are present on the SD-Card.
+Every button can be remapped to boot into an other program. Just rename the designated dol-files into one of the following and press its button on startup. Just place the dol-files into the root of your SD-Card. Even start and z can be remapped, but you cant enter the recovery or debugging mode as long these dol-files are present on the SD-Card.
 The possible dol-files are:
 * _a.dol_
 * _b.dol_
