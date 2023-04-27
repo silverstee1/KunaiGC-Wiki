@@ -16,40 +16,33 @@ First take of all the screws from the heatsink.
 Now turn on the gamecube for a few minutes, sothat the CPU and GPU are getting warm. This softens the thermal pads and you sould be able to get the heatsink of without much force and hopefully without tearing the pads in the process.
 
 ## Soldering
-With **KunaiGC** you **don't** need to life any pins on the IPL.
+With the **KunaiGC** you **don't** need to life any pins on the IPL.
 
-* Simply lay the QSB-Board over the IPL  
-  <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/qsb_allignment.jpg" width=70% height=70%>  
-<br/>
-<br/>
+### Simply lay the QSB-Board over the IPL
 
-* Solder every pin from the QSB to the IPL Chip
+  <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/qsb_allignment.jpg" width=70% height=70%>
+ 
+### Solder every pin from the QSB to the IPL Chip - please use flux
+
   <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/solder_kunai.jpg" width=70% height=70%>
   <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_qsb.jpg" width=70% height=70%>
-<br/>
-<br/>
 
-* before aligning the Kunai modchip make sure to tape the backsite of the PCB to ensure there are no shorts
+### before aligning the Kunai modchip make sure to tape the backsite of the PCB to ensure there are no shorts
+
   <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/kunai_back.jpg" width=70% height=70%>
-<br/>
-<br/>
 
-* align the Kunai and check if it fits in a proper way
+### align the Kunai and check if it fits in a proper way
+
   <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/alligned_kunai.jpg" width=70% height=70%>
-<br/>
-<br/>
 
-* Now you can take the assembled and programmed **KunaiGC** and solder it directly to the QSB
+### Now you can take the assembled and programmed **KunaiGC** and solder it directly to the QSB
+
   <img src="https://github.com/KunaiGC/KunaiGC/blob/main/images/solderkunai/soldered_kunai.jpg" width=70% height=70%>
-<br/>
-<br/>
 
-* To check the soldering you can test at this points:
+### To check the soldering you can test at this points:
+
   <img src="https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_1.jpg" width=70% height=70%>
   <img src="https://github.com/KunaiGC/KunaiGC/blob/e74e694fb9b1ebc6c7877027f4c3de27b43bf00e/images/testpoints_2.jpg" width=70% height=70%>
-<br/>
-<br/>
-<br/>
 
 **With that finished you can put on the heatsink for good and screw it down.**
 
